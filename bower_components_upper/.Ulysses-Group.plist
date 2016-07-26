@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>awesome-bootstrap-checkbox</string>
+		<string>blanket</string>
+		<string>bootbox</string>
+		<string>bootstrap</string>
+		<string>bootstrap-select</string>
+		<string>doT</string>
+		<string>jquery</string>
+		<string>jquery-extendext</string>
+		<string>moment</string>
+		<string>qunit</string>
+		<string>sql-parser</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+</dict>
+</plist>

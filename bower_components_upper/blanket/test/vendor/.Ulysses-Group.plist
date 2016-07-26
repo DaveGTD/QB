@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>coffee-script.js</string>
+		</array>
+		<array>
+			<string>cs.js</string>
+		</array>
+		<array>
+			<string>jasmine-html.js</string>
+		</array>
+		<array>
+			<string>jasmine.js</string>
+		</array>
+		<array>
+			<string>jquery.js</string>
+		</array>
+		<array>
+			<string>mocha.js</string>
+		</array>
+		<array>
+			<string>qunit.js</string>
+		</array>
+		<array>
+			<string>qunit_old.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

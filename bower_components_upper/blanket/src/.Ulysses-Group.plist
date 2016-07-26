@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>adapters</string>
+		<string>loaders</string>
+		<string>node-loaders</string>
+		<string>qunit</string>
+		<string>reporters</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>blanket.js</string>
+		</array>
+		<array>
+			<string>blanket_browser.js</string>
+		</array>
+		<array>
+			<string>blanketRequire.js</string>
+		</array>
+		<array>
+			<string>config.js</string>
+		</array>
+		<array>
+			<string>index.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

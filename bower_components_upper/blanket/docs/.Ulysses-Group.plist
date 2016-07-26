@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>advanced_browser.md</string>
+		</array>
+		<array>
+			<string>compatibility_and_features.md</string>
+		</array>
+		<array>
+			<string>getting_started_browser.md</string>
+		</array>
+		<array>
+			<string>getting_started_node.md</string>
+		</array>
+		<array>
+			<string>intermediate_browser.md</string>
+		</array>
+		<array>
+			<string>intermediate_node.md</string>
+		</array>
+		<array>
+			<string>intermediate_node_2.md</string>
+		</array>
+		<array>
+			<string>options.md</string>
+		</array>
+		<array>
+			<string>special_features.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>express</string>
+		<string>views</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>advancedsnippet.txt</string>
+		</array>
+		<array>
+			<string>customdoT.js</string>
+		</array>
+		<array>
+			<string>snippet.txt</string>
+		</array>
+		<array>
+			<string>withdoT.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

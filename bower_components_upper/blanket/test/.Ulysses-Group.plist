@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>backbone-koans</string>
+		<string>bootstrap</string>
+		<string>branchTracking</string>
+		<string>coffee_script</string>
+		<string>commonjs</string>
+		<string>custom-reporter</string>
+		<string>helpers</string>
+		<string>ignore_script_error</string>
+		<string>jasmine</string>
+		<string>jasmine-custom-build</string>
+		<string>jasmine-requirejs</string>
+		<string>jquery-usage</string>
+		<string>lib-tests</string>
+		<string>mocha-browser</string>
+		<string>performance</string>
+		<string>qunit-start-stop</string>
+		<string>requirejs</string>
+		<string>test-node</string>
+		<string>usage</string>
+		<string>vendor</string>
+		<string>yui</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+</dict>
+</plist>

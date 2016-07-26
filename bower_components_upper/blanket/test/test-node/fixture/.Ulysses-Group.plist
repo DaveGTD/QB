@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>src</string>
+		<string>test</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>blockinjection_test_file.js</string>
+		</array>
+		<array>
+			<string>blockinjection_test_file_instrumented.js</string>
+		</array>
+		<array>
+			<string>branch_complex_test_file.js</string>
+		</array>
+		<array>
+			<string>branch_complex_test_file_instrumented.js</string>
+		</array>
+		<array>
+			<string>branch_test_file.js</string>
+		</array>
+		<array>
+			<string>branch_test_file_instrumented.js</string>
+		</array>
+		<array>
+			<string>comment_test_file.js</string>
+		</array>
+		<array>
+			<string>comment_test_file_instrumented.js</string>
+		</array>
+		<array>
+			<string>core_fixtures.js</string>
+		</array>
+		<array>
+			<string>multi_line_branch_test_file.js</string>
+		</array>
+		<array>
+			<string>multi_line_branch_test_file_instrumented.js</string>
+		</array>
+		<array>
+			<string>shebang_test_file.js</string>
+		</array>
+		<array>
+			<string>shebang_test_file_instrumented.js</string>
+		</array>
+		<array>
+			<string>simple_test_file.js.js</string>
+		</array>
+		<array>
+			<string>simple_test_file_instrumented.js.js</string>
+		</array>
+		<array>
+			<string>simple_test_file_instrumented_full.js.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>core</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>assert.js</string>
+		</array>
+		<array>
+			<string>core.js</string>
+		</array>
+		<array>
+			<string>diff.js</string>
+		</array>
+		<array>
+			<string>dump.js</string>
+		</array>
+		<array>
+			<string>equiv.js</string>
+		</array>
+		<array>
+			<string>export.js</string>
+		</array>
+		<array>
+			<string>intro.js</string>
+		</array>
+		<array>
+			<string>outro.js</string>
+		</array>
+		<array>
+			<string>test.js</string>
+		</array>
+	</array>
+</dict>
+</plist>
